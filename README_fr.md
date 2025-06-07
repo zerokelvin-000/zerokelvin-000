@@ -3,5 +3,5 @@ Je préfère créer un programme manuellement plutôt que de me fier à des bibl
 de programmation, en fait aucun NodeJS, React ou d’autres langages populaires.<br>
 En plus des sites web, je me suis aussi amusé dans la création de PCB, mais ils ne font pas beaucoup pour moi.
 
-[Parli italiano?](https://github.com/zerokelvin-000/zerokelvin-000/blob/main/README.md)<br>
+[Parli italiano?](README.md)<br>
 [Do you speak english?](link1)
